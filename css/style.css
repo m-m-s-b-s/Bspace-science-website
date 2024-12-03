@@ -147,7 +147,7 @@ img {
 /*----------------------------------------body-home-styles---------------------------------------*/
 
 
-body {
+body.modified {
     cursor: url('../images/rocketcursor.png') 10 10, auto !important;
 }
 
